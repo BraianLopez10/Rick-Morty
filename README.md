@@ -1,7 +1,8 @@
 # SPA VANILLA JS
 
  Se usa la api de rick and morty https://rickandmortyapi.com/ 🤘
- Url Proyecto --> https://braianlopez10.github.io/Rick-Morty/ 🔥
+ 
+ Url Proyecto --> https://braianlopez10.github.io/rick-morty/ 🔥
  
  ### 🤘 Para comenzar a usar el proyecto 
  - 1️⃣ npm install
